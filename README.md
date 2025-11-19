@@ -8,7 +8,7 @@ This project implements a **Deep Metric Learning (DMT)** approach for **Network 
 
 ## Overview
 
-The project uses **Deep Metric Learning (DMT)** to detect anomalies in network traffic based on a dataset that contains normal and abnormal network behavior.<br> 
+The project uses **Deep Metric Learning (DMT)** to detect anomalies in network traffic based on a dataset that contains normal and abnormal network behavior.</br> 
 It uses deep learning techniques to learn embeddings and distances between data points, and based on these distances, identifies outliers that represent anomalies.
 
 ### Key Features:
