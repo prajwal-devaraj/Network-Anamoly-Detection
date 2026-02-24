@@ -114,3 +114,5 @@ DMT-Network-Anomaly-Detection/
 ### Developed by
 
 **Prajwal Devaraj**
+
+pdevaraj001@gmail.com
